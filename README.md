@@ -5,7 +5,7 @@ This project demonstrates how to use the Analog-to-Digital Converter (ADC) of an
 
 ## Hardware Used
 
-- STM32F4 Discovery / Nucleo Board
+- STM32F1 BLUEPILL
 - Potentiometer (10kΩ)
 - USB Cable
 - STM32CubeIDE
@@ -42,11 +42,6 @@ Reference = 3.3V
 
 ADC Value = 2048
 
-## Folder Structure
-
-Core/
-Drivers/
-STM32_ADC.ioc
 
 ## Learning Outcomes
 
@@ -66,4 +61,3 @@ STM32_ADC.ioc
 ## Author
 
 Abhiram Kadarla
-Embedded Software Engineer
